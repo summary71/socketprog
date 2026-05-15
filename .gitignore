@@ -1,0 +1,13 @@
+# Compiled C/C++ executables
+a.out
+cli
+srv
+tcpcli
+udpcli
+udpsrv
+
+# General compiled output patterns
+*.o
+*.so
+*.a
+*.out
